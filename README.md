@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Hey, I'm <b>Developer Studio (aka Friday)</b> 🚀</h1>
+<h1 align="center">👨‍💻 Hey, I'm <b>Developer Studio</b> 🚀</h1>
 <h3 align="center">✨ Full-Stack Developer | 🧠 Problem Solver | ⚙️ Tech Enthusiast</h3>
 
 <p align="center">
