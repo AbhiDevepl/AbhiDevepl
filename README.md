@@ -1,52 +1,56 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-<h3 align="center">I'm <b>Developer Studio</b> — a passionate full-stack developer from Pune, India 🇮🇳</h3>
+<h1 align="center">👋 Hey, I'm Developer Studio</h1>
+<h3 align="center">🚀 Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
+<p align="center">
+  <b>Based in Pune & Shrigonda, India 🇮🇳</b><br/>
+  Building scalable, modern applications and learning something new every day.
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a dedicated developer focused on building efficient and scalable applications. I enjoy tackling real-world problems through code and constantly learning new technologies.
+I'm a dedicated full-stack developer passionate about crafting efficient, scalable, and user-friendly digital solutions. I love solving real-world problems through technology and constantly improving my skills.
 
-📍 Based in **Pune**  
-💡 Passionate about creating impactful software  
-🚀 Always building, always learning  
+- 🌍 Living in **Pune & Shrigonda**
+- 💻 Specializing in **web application development**
+- 🚀 Always exploring new tech stacks & tools
+- 🛠️ Focused on writing clean, maintainable code
+- 📬 Let’s connect and collaborate!
 
 ---
 
-## 🚀 Skills & Technologies
+## 🚀 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="Next.js"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="TailwindCSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="50" alt="Storybook"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" alt="GraphQL"/>
-  <img src="https://skillicons.dev/icons?i=go" height="50" alt="Go"/>
-  <img src="https://skillicons.dev/icons?i=rust" height="50" alt="Rust"/>
-  <img src="https://skillicons.dev/icons?i=nestjs" height="50" alt="NestJS"/>
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="AWS"/>
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,nestjs,tailwind,py,aws" height="50" />
 </div>
 
 ---
 
-## 📂 Top Projects
+## 📦 Featured Projects
 
-- [🎓 Law-Collage-Main](https://github.com/AbhiDevepl/Law-Collage-Main)  
-  A comprehensive web application for law college management.  
-  `⭐ 0` | `🌐 JavaScript` | `🔄 0 Forks` | `🔧 0 Open Issues`
+### [🎓 Law-Collage-Main](https://github.com/AbhiDevepl/Law-Collage-Main)
+> A modern law college management system to handle student data, course info, and more.
 
-- [👤 AbhiDevepl](https://github.com/AbhiDevepl/AbhiDevepl)  
-  GitHub profile configuration repo.  
-  `⭐ 0` | `🌐 GitHub Config` | `🔄 0 Forks` | `🔧 0 Open Issues`
+- ⚙️ Tech: HTML, CSS, JavaScript
+- 📅 Created: June 2025
+- 🌟 Stars: `0` &nbsp;&nbsp; 🔄 Forks: `0` &nbsp;&nbsp; 🚧 Open Issues: `0`
 
 ---
 
-## 📊 GitHub Stats
+### [👤 GitHub Profile Repo](https://github.com/AbhiDevepl/AbhiDevepl)
+> The source code for this professional GitHub profile README.
+
+- 🎨 Custom GitHub profile setup  
+- 📁 Includes badges, stats, and visual activity
+
+---
+
+## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhiDevepl&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=AbhiDevepl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhiDevepl&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=AbhiDevepl&theme=dracula&hide_border=true" height="150"/>
 </div>
 
 ---
@@ -54,20 +58,20 @@ I'm a dedicated developer focused on building efficient and scalable application
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=AbhiDevepl&theme=dracula&column=-1&row=1" height="140"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhiDevepl&theme=dracula&margin-w=15&margin-h=15&no-frame=true&no-bg=true" />
 </div>
 
 ---
 
-## 🌱 Recent Activity
+## 🗓️ Recent Activity
 
-- ✅ Pushed to [Law-Collage-Main](https://github.com/AbhiDevepl/Law-Collage-Main) – Created `npm-gulp.yml` *(June 16, 2025)*
-- ✅ Pushed to [Law-Collage-Main](https://github.com/AbhiDevepl/Law-Collage-Main) – Updated college name to uppercase *(June 16, 2025)*
-- 🆕 Created [Law-Collage-Main](https://github.com/AbhiDevepl/Law-Collage-Main) *(June 16, 2025)*
+- ✅ Pushed: `npm-gulp.yml` in [Law-Collage-Main](https://github.com/AbhiDevepl/Law-Collage-Main) – *(June 16, 2025)*
+- ✅ Updated: College name formatting in [Law-Collage-Main](https://github.com/AbhiDevepl/Law-Collage-Main) – *(June 16, 2025)*
+- 🆕 Created: [Law-Collage-Main](https://github.com/AbhiDevepl/Law-Collage-Main) – *(June 16, 2025)*
 
 ---
 
-## 📈 Contribution Graph
+## 🌱 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
@@ -77,30 +81,36 @@ I'm a dedicated developer focused on building efficient and scalable application
 
 ---
 
-## 📫 Connect with Me
+## 📬 Connect With Me
 
 <div align="center">
   <a href="https://www.instagram.com/dev.abhayyy/">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-  <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
+  <a href="https://linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/c/ExperimentWithPcs">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-## 🎤 My Talks
+## 📚 Coming Soon
 
-- [Talk Title](#) – *Brief description of the talk*
+### 🎤 Talks & Presentations  
+> _Will be sharing knowledge via webinars and tech talks soon._
 
----
-
-## 📝 Publications
-
-- [Publication Title](#) – *Journal/Conference, Year*
+### 📝 Articles & Publications  
+> _Technical blogs and open-source contributions in the works._
 
 ---
 
-> ⚡ *Let’s create something amazing together!*
+## ✨ Final Words
+
+> *“First, solve the problem. Then, write the code.” – John Johnson*
+
+<p align="center">
+  <strong>Let's collaborate and build something amazing!</strong>
+</p>
