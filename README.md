@@ -14,7 +14,6 @@ I’m a passionate **full-stack developer** and system tinkerer focused on solvi
 
 - 🌍 Based in **Pune & Shrigonda**
 - 💻 Focused on **web and desktop app development**
-- 🖥️ Hackintosh enthusiast *(Intel i5 6th Gen, Intel HD 530)*
 - 🛠️ Clean, maintainable, production-ready code advocate
 
 ---
@@ -44,9 +43,6 @@ I’m a passionate **full-stack developer** and system tinkerer focused on solvi
 - 📅 Built: April 2025 *(Private Repo)*
 
 ---
-
-### 🖥️ Hackintosh Setup
-> 🍏 Custom-built Hackintosh system on Intel i5 *th Gen laptop with Intel HD 630 graphics, 8GB RAM, and NVME.
 
 ---
 
