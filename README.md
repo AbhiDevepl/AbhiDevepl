@@ -14,7 +14,7 @@ I’m a passionate **full-stack developer** and system tinkerer focused on solvi
 
 - 🌍 Based in **Pune & Shrigonda, Maharashtra**
 - 💻 Focused on **web and desktop application development**
-- 🛠️ Strong advocate of clean, maintainable, production-ready code
+- 🛠️ Advocate of clean, maintainable, production-ready code
 
 ---
 
@@ -24,7 +24,7 @@ I’m a passionate **full-stack developer** and system tinkerer focused on solvi
   <img
     src="https://skillicons.dev/icons?i=java,py,ts,nextjs,nestjs,tailwind,aws,html,css,js,git,linux,vscode"
     height="50"
-    alt="Tech Stack Icons"
+    alt="Tech Stack"
   />
 </div>
 
@@ -33,7 +33,7 @@ I’m a passionate **full-stack developer** and system tinkerer focused on solvi
 ## 📦 Notable Projects
 
 ### 🎓 [Law-Collage-Main](https://github.com/AbhiDevepl/Law-Collage-Main)
-> 📑 A modern law college management system for handling student records, course information, and administrative operations.
+> 📑 A modern law college management system for managing student records, courses, and administration.
 
 - ⚙️ Tech Stack: HTML, CSS, JavaScript  
 - 📅 Created: June 2025  
@@ -41,7 +41,7 @@ I’m a passionate **full-stack developer** and system tinkerer focused on solvi
 ---
 
 ### 🛒 Bakery Management System (College Project)
-> 🥐 Desktop-based system for inventory, sales, and staff management.
+> 🥐 Desktop-based inventory, sales, and staff management system.
 
 - ⚙️ Tech Stack: Java (JDK 21), JavaFX  
 - 📅 Built: April 2025  
@@ -53,12 +53,12 @@ I’m a passionate **full-stack developer** and system tinkerer focused on solvi
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=AbhiDevepl&show_icons=true&theme=radical&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=AbhiDevepl&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
     height="150"
     alt="GitHub Stats"
   />
   <img
-    src="https://streak-stats.demolab.com?user=AbhiDevepl&theme=dracula&hide_border=true"
+    src="https://streak-stats.demolab.com?user=AbhiDevepl&theme=dracula&hide_border=true&cache_seconds=86400"
     height="150"
     alt="GitHub Streak"
   />
