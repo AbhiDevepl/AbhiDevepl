@@ -49,20 +49,7 @@ I’m a passionate **full-stack developer** and system tinkerer focused on solvi
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AbhiDevepl&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
-    height="150"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=AbhiDevepl&theme=dracula&hide_border=true&cache_seconds=86400"
-    height="150"
-    alt="GitHub Streak"
-  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ---
 
